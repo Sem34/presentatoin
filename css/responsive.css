@@ -1,0 +1,257 @@
+ /*
+* ----------------------------------------------------------------------------------------
+Author        : Rama Hardian Sidik
+Template Name : Joreact - personal onepage bootstrap portfolio template
+Version       : 1.1
+* ----------------------------------------------------------------------------------------
+*/
+
+ @media only screen and (min-device-width: 1366px) and (max-device-width: 1366px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
+    #section-wrap-heromain {
+        padding-top: 33% !important;
+     }
+     .navigation-wrap {
+        padding-top: 350px !important;
+    }
+ }
+
+ @media only screen and (min-device-width: 1024px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+    #section-wrap-heromain {
+        padding-top: 33% !important;
+     }
+
+    .full-width {
+       flex: 0 0 100%;
+       max-width: 100%;
+    }
+
+    .pic-herowrap {
+        margin: 0 auto;
+        margin-bottom: 80px;
+    }
+
+    .title-hero-wrap {
+        padding-left: 0;
+        text-align: center;
+        padding-bottom: 200px;
+    }
+ }
+
+ @media only screen and (device-width : 375px) and (device-height : 812px) and (orientation: landscape) and (-webkit-device-pixel-ratio : 3) {}
+
+ @media only screen and (device-width : 812px) and (device-height : 375px) and (orientation: portrait) and (-webkit-device-pixel-ratio : 3) {}
+
+ @media screen and (max-width: 2560px) {
+    #section-wrap-heromain {
+        padding-top: 350px; 
+    }
+    .navigation-wrap {
+        padding-top: 350px;
+    }
+ }
+
+ @media screen and (max-width: 1440px) {
+    #section-wrap-heromain {
+        padding-top: 200px;
+    }
+    .navigation-wrap {
+        padding-top: 200px;
+    }
+ }
+
+ @media screen and (max-width: 1299px) {}
+
+ @media screen and (max-width: 1270px) {
+
+     #warp-blog,
+     #wrap-project,
+     #section-wrap-about,
+     #contact-wrap {
+         padding-top: 200px;
+     }
+
+     .left-side_wrap {
+         padding-right: 0;
+     }
+
+     .right-side_wrap {
+         display: none;
+     }
+
+     .sosmed-small {
+         display: block;
+     }
+
+     .navigation-midwrap {
+         display: block;
+     }
+
+     .hero-about {
+         margin-bottom: 100px;
+     }
+
+     .wrap-aboutdetail {
+         left: 0;
+         padding-left: 10px;
+         padding-right: 10px;
+     }
+
+     .normal-top {
+         left: 0;
+     }
+
+     .inner-contact {
+         padding-left: 0;
+         padding-right: 0;
+     }
+
+ }
+
+ @media screen and (max-width: 1024px) {
+    #section-wrap-heromain {
+        padding-top: 250px;
+    }
+ }
+
+ @media (max-width: 999px) {
+     .pic-herowrap {
+         margin: 0 auto;
+         margin-bottom: 80px;
+     }
+
+     .title-hero-wrap {
+         padding-left: 0;
+         text-align: center;
+         padding-bottom: 200px;
+     }
+
+     .ido-mainwrap:nth-child(1) {
+         padding-top: 100px;
+     }
+
+     .ido-mainwrap {
+         padding-top: 50px;
+         padding-left: 0;
+         padding-right: 0;
+     }
+ }
+
+ @media (max-width: 990px) {
+     .masonry-item {
+         width: 100%;
+     }
+ }
+
+ @media (max-width: 799px) {
+     .little-title h3 {
+         font-size: 15px;
+     }
+
+     .big-titleoverlay {
+         font-size: 50px;
+         top: -40px;
+     }
+
+     .head-title {
+         font-size: 15px;
+     }
+
+     .big-title {
+         font-size: 30px;
+     }
+
+     .left-gap {
+         width: 100%;
+         float: unset;
+     }
+
+     .right-gap {
+         border-top: 1px solid #ececec;
+         padding-top: 30px;
+         width: 100%;
+         float: unset;
+     }
+
+     .footabout-wrap .button-link {
+         width: 100%;
+         text-align: center;
+     }
+
+     .content-title-blog {
+         font-size: 18px;
+     }
+
+     .inner-mini {
+         margin: 10px 0 0 0;
+     }
+
+     .blog-wrapmain {
+         columns: 1;
+     }
+
+     .blog-item {
+         margin: 20px 0 0;
+     }
+
+     .wraplist-detail {
+         padding-left: 0;
+     }
+
+     .detail-innerwrap-l {
+         padding-left: 0;
+     }
+
+     .detail-innerwrap-r {
+         margin: 50px 0;
+     }
+
+     .masonry-item {
+         margin: 20px 0;
+     }
+
+     .filter {
+         padding-left: 0;
+     }
+
+     .filter li {
+         margin-top: 10px;
+     }
+
+     .text-linkmid {
+         display: none;
+     }
+ }
+
+ @media only screen and (max-width: 699px) {
+     .pic-herowrap {
+         width: 250px;
+         height: 250px;
+     }
+
+     .wrap-hero-content {
+         padding-right: 0;
+         padding-left: 0;
+     }
+
+     .inner-detail {
+         position: relative;
+         padding: 50px 20px 20px;
+     }
+
+     .logo-midscreen .logo-site {
+         padding-left: 20px;
+     }
+ }
+
+ @media only screen and (max-width: 580px) {}
+
+ @media (max-width: 480px) {}
+
+ @media (max-width: 360px) {}
+
+ @media all and (-ms-high-contrast: none),
+ (-ms-high-contrast: active) {}
+
+ @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio: 2) {}
+
+ @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio: 2) {}
