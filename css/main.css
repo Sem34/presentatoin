@@ -719,7 +719,7 @@ Version       : 1.1
  }
 
  .content-overlay {
-     background: #007AE9;
+     background: #ffffff00;
      position: absolute;
      height: 100%;
      width: 100%;
@@ -1219,6 +1219,15 @@ Version       : 1.1
 /* TRAVEL */
 
 #wrap-travel {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#section-wrap-business {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#warp-sport {
     padding-top: 100px;
     padding-bottom: 100px;
 }
